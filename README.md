@@ -5,7 +5,7 @@ This Django project allows users to view the current weather of various cities u
 ## Installation
 Clone the repository:
 
-git clone https://github.com/your-username/django-weather-app.git
+git [clone https://github.com/your-username/django-weather-app.git](https://github.com/AarugulaVarahalu/Weather-Tracking-App/tree/main)
 
 Install the required dependencies:
 
